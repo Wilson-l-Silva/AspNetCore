@@ -1,4 +1,4 @@
-# AspNetCore
+# AspNetCore Angular
 destinado a projetos com aspnet core
 
 Conhecimentos aplicados no projeto:
